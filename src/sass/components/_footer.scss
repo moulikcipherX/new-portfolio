@@ -12,6 +12,7 @@
   .secondary-header {
     flex: 1 1 100%;
     display: inline-block;
+    color: #fffffe;
 
     @include min($tablet) {
       flex: 0 0 auto;
@@ -36,6 +37,7 @@
   margin: 0;
   padding: 0;
   font-size: 1.6rem;
+  color: #f2f7f5
 }
 
 .social-list__item {
@@ -52,9 +54,11 @@
 .social-list__item-link {
   transition: color 250ms ease;
 
-  &:hover,
+  &:hover {
+    color: #faae2b;
+  }
   &:focus,
   &:active {
-    color: $primary-light;
+    color: #fa5246;
   }
 }
