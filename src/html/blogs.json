@@ -1,0 +1,30 @@
+[
+    {
+        "title": "GSoC Experience at Salesforce",
+        "tags": "NodeJS, TypeScript",
+        "author": "Moulik Aggarwal",
+        "date":"March 7, 2020",
+        "href": "/salesforce_gsoc.html"
+    },
+    {
+        "title": "Road to be a Developer!",
+        "tags": "Open-source, Competitive Programming",
+        "author": "Moulik Aggarwal",
+        "date":"June 27, 2019",
+        "href": "/road_to_be_developer.html"
+    },
+    {
+        "title": "At the End of 4 Weeks — GSoC’19 Salesforce",
+        "tags": "NodeJS, TypeScript",
+        "author": "Moulik Aggarwal",
+        "date":"June 25, 2019",
+        "href": "https://medium.com/@moulikaggarwal/at-the-end-of-4-weeks-gsoc19-salesforce-e438b78723f"
+    },
+    {
+        "title": "Final Evaluation Report- KWoC 2018",
+        "tags": "Open Source",
+        "author": "Moulik Aggarwal",
+        "date":"Jan 15, 2019",
+        "href": "https://medium.com/@moulikaggarwal/final-evaluation-report-kwoc-2018-e08f8b081c59"
+    }
+]

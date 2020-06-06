@@ -11,10 +11,13 @@ form, input, label {
   vertical-align: baseline;
 }
 
-*,
-*::before,
-*::after {
+* {
+  margin: 0;
+  padding: 0;
+
+  ::before,::after {
   box-sizing: border-box;
+}
 }
 
 img {

@@ -1,1 +1,1 @@
-{"version":3,"file":null,"sources":["/home/moulik/Documents/personal/new-portfolio/src/js/main.js"],"sourcesContent":["(function ($) {\n  'use strict'\n\n})(jQuery);\n"],"names":["$","jQuery"],"mappings":"0BAAA,SAAWA,KAGRC"}
+{"version":3,"file":null,"sources":["/home/moulik/Documents/personal/new-portfolio/src/js/main.js"],"sourcesContent":["(function ($) {\n  'use strict'\n\n})(jQuery);\n"],"names":["jQuery"],"mappings":"wBAGGA"}

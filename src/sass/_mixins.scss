@@ -32,3 +32,9 @@
     @content;
   }
 }
+
+@mixin max($width) {
+  @media screen and (max-width: $width) {
+    @content;
+  }
+}
