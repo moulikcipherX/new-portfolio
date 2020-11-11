@@ -21,7 +21,7 @@
     "gulp-plumber": "^1.1.0",
     "gulp-postcss": "^6.2.0",
     "gulp-sass": "^2.3.2",
-    "gulp-sourcemaps": "^1.9.1",
+    "gulp-sourcemaps": "^3.0.0",
     "node-notifier": "^4.6.1",
     "outset": "^4.2.0",
     "rollup": "^0.36.4",
